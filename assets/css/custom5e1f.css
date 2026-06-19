@@ -1,0 +1,231 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+}
+
+/* Status da loja (ABERTO/FECHADO) */
+.aberto {
+    background-color: rgba(255, 255, 255, 0.95);
+    padding: 8px 12px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 14px;
+    transition: opacity 0.3s ease;
+}
+
+/* AnimaÃ§Ã£o de piscar para o status */
+@keyframes pisca {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.3; }
+}
+
+.btn-pisca {
+    animation: pisca 2s ease-in-out infinite;
+}
+
+/* Cards Modernos de InformaÃ§Ãµes */
+.status-badge-modern {
+    background: linear-gradient(135deg, #27ae60 0%, #2ecc71 100%);
+    color: #fff;
+    padding: 7px 15px;
+    border-radius: 20px;
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    font-size: 12px;
+    font-weight: 700;
+    margin-bottom: 16px;
+    box-shadow: 0 2px 8px rgba(39, 174, 96, 0.25);
+}
+
+.info-grid-modern {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    margin-top: 12px;
+    margin-bottom: 20px;
+}
+
+.info-item-modern {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: #fff;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid #f0f0f0;
+}
+
+.icon-circle-modern {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: #FFCC01;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #000;
+    flex-shrink: 0;
+}
+
+.item-text-modern {
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+    min-width: 0;
+    flex: 1;
+}
+
+.item-label-modern {
+    font-size: 9px;
+    color: #999;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 0.3px;
+}
+
+.item-value-modern {
+    font-size: 12px;
+    color: #000;
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+.item-value-modern strong {
+    font-weight: 700;
+}
+
+@media (max-width: 768px) {
+    .info-grid-modern {
+        gap: 6px;
+    }
+    
+    .info-item-modern {
+        padding: 8px;
+        gap: 6px;
+    }
+    
+    .icon-circle-modern {
+        width: 28px;
+        height: 28px;
+    }
+    
+    .item-label-modern {
+        font-size: 8px;
+    }
+    
+    .item-value-modern {
+        font-size: 10px;
+    }
+}
+.hero-cover {
+    background-image: url('../../images/asd.png');
+    background-size: cover;
+    background-position: center;
+}
+/* Scrollbar customizada */
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-track { background: #f1f5f9; border-radius: 10px; }
+::-webkit-scrollbar-thumb { background: #FFCC01; border-radius: 10px; }
+::-webkit-scrollbar-thumb:hover { background: #e6b800; }
+
+.scrollbar-hide::-webkit-scrollbar {
+    display: none;
+}
+.scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+/* Estilos do Carrinho */
+#cart-content.collapsed #cart-expanded {
+    display: none;
+}
+#cart-content:not(.collapsed) #cart-collapsed {
+    display: none;
+}
+/* Estilo para o link de categoria */
+.category-link {
+    color: white;
+    flex-shrink: 0;
+}
+.category-link.active {
+    font-weight: 600;
+    text-decoration: underline;
+    text-underline-offset: 4px;
+}
+
+/* Barra de categorias: scroll horizontal suave no mobile (iOS) */
+#category-nav-links {
+    -webkit-overflow-scrolling: touch;
+}
+/* Estilo para a categoria da grade ativa */
+.category-grid-item.active p {
+    color: #FFCC01;
+    font-weight: 700;
+}
+.category-grid-item.active div {
+    border-color: #FFCC01;
+    transform: scale(1.05);
+}
+/* AnimaÃƒÂ§ÃƒÂ£o para destacar produto */
+@keyframes highlight {
+    0% { background-color: #fff8cc; }
+    100% { background-color: transparent; }
+}
+.highlight-product {
+    animation: highlight 2s ease-out;
+}
+
+/* =================================================================== */
+/* CÃƒâ€œDIGO ATUALIZADO PARA A BARRA DE PESQUISA FIXA (29/08/2025) */
+/* =================================================================== */
+#search-container.fixed-search {
+    position: fixed;
+    /* Alterado para 0 para colar no topo da tela */
+    top: 0; 
+    left: 0;
+    right: 0;
+    /* Aumentado para ficar na frente de tudo */
+    z-index: 30; 
+    
+    /* Cor primÃ¡ria do site */
+    background-color: #FFCC01; 
+    
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    margin-bottom: 0;
+    box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+    transform: translateY(0);
+    transition: all 0.3s ease-in-out;
+}
+
+/* Melhoria de contraste para o campo de busca quando fixo */
+#search-container.fixed-search input {
+    background-color: white;
+    border-color: #FFCC01;
+}
+
+/* Classe para adicionar o espaÃƒÂ§amento no 'main' e evitar o "pulo" do conteÃƒÂºdo */
+main.search-is-fixed {
+    /* A altura exata serÃƒÂ¡ definida via JavaScript para ser precisa */
+    padding-top: 80px; 
+}
+
+/* Modal de imagem ampliada */
+#image-modal {
+    transition: opacity 0.3s ease-in-out;
+}
+#image-modal:not(.hidden) {
+    display: flex;
+}
+#modal-image {
+    animation: fadeIn 0.3s ease-in-out;
+}
+@keyframes fadeIn {
+    from { opacity: 0; transform: scale(0.9); }
+    to { opacity: 1; transform: scale(1); }
+}

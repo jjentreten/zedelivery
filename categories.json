@@ -1,0 +1,63 @@
+
+[
+  {
+    "name": "Ofertas",
+    "image_url": "images/imgi_37_image.webp"
+  },
+  {
+    "name": "Cervejas",
+    "image_url": "images/imgi_38_image.webp"
+  },
+  {
+    "name": "Destilados",
+    "image_url": "images/imgi_39_image.webp"
+  },
+  {
+    "name": "Vinhos",
+    "image_url": "images/imgi_40_image.webp"
+  },
+  {
+    "name": "Churrasco",
+    "image_url": "images/imgi_41_image.webp"
+  },
+  {
+    "name": "Chopp",
+    "image_url": "images/imgi_42_image.webp"
+  },
+  {
+    "name": "Águas e Gelo",
+    "image_url": "images/imgi_43_image.webp"
+  },
+  {
+    "name": "Não alcoólicos",
+    "image_url": "images/nao_alcolicos.webp"
+  },
+  {
+    "name": "Drinks Prontos",
+    "image_url": "images/imgi_45_image.webp"
+  },
+  {
+    "name": "Sobremesas",
+    "image_url": "images/imgi_47_image.webp"
+  },
+  {
+    "name": "Mercearia",
+    "image_url": "images/imgi_44_image.webp"
+  },
+  {
+    "name": "Cigarros",
+    "image_url": "images/cigarros.webp"
+  },
+  {
+    "name": "Refrigerantes",
+    "image_url": "images/imgi_44_image.webp"
+  },
+  {
+    "name": "Energéticos",
+    "image_url": "images/energeticos.webp"
+  },
+  {
+    "name": "Resenha",
+    "image_url": "images/imgi_49_image.webp"
+  }
+]

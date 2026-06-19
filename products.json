@@ -1,0 +1,3872 @@
+[
+  {
+    "id": 500,
+    "name": "Combo Heineken Long Neck 6un",
+    "category": "Ofertas",
+    "image": "images/combos/heinekenlong.webp",
+    "oldPrice": 69.9,
+    "newPrice": 30.6,
+    "stock": 20,
+    "tags": [
+      {
+        "text": "Oferta",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 501,
+    "name": "Combo Heineken Latão 6un",
+    "category": "Ofertas",
+    "image": "images/combos/heinekenlatao.webp",
+    "oldPrice": 62.9,
+    "newPrice": 39.25,
+    "stock": 20,
+    "tags": [
+      {
+        "text": "Oferta da Semana",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 502,
+    "name": "Combo Smirnoff + Energético",
+    "category": "Ofertas",
+    "image": "images/combosmirfnoof.webp",
+    "oldPrice": 89.9,
+    "newPrice": 79.25,
+    "stock": 15,
+    "tags": [
+      {
+        "text": "Combo",
+        "color": "yellow"
+      }
+    ]
+  },
+  {
+    "id": 503,
+    "name": "Combo Beefeater + Tônica",
+    "category": "Ofertas",
+    "image": "images/combos/beefeater.webp",
+    "oldPrice": 119.9,
+    "newPrice": 87.25,
+    "stock": 10,
+    "tags": [
+      {
+        "text": "Gin",
+        "color": "purple"
+      }
+    ]
+  },
+  {
+    "id": 504,
+    "name": "Combo Buchanan's 12 Anos",
+    "category": "Ofertas",
+    "image": "images/buchanas.webp",
+    "oldPrice": 219.9,
+    "newPrice": 134.34,
+    "stock": 8,
+    "tags": [
+      {
+        "text": "Whisky",
+        "color": "red"
+      }
+    ]
+  },
+  {
+    "id": 505,
+    "name": "Caixa Antarctica Original - 12 latas de 350ml",
+    "category": "Ofertas",
+    "image": "images/caixa_antatica.webp",
+    "oldPrice": 39.98,
+    "newPrice": 19.34,
+    "stock": 20,
+    "tags": [
+      {
+        "text": "Oferta",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 506,
+    "name": "Caixa Antarctica Original - 12 latas de 350ml",
+    "category": "Ofertas",
+    "image": "images/caixa_original.webp",
+    "oldPrice": 39.98,
+    "newPrice": 19.34,
+    "stock": 20,
+    "tags": [
+      {
+        "text": "Oferta",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 507,
+    "name": "Caixa Brahma Duplo Malte - 12 latas de 350ml",
+    "category": "Ofertas",
+    "image": "images/caixa_duplomalte.webp",
+    "oldPrice": 44.98,
+    "newPrice": 21.84,
+    "stock": 20,
+    "tags": [
+      {
+        "text": "Oferta",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 508,
+    "name": "Caixa Brahma Chopp - 12 latas de 350ml",
+    "category": "Ofertas",
+    "image": "images/caixa_brama.webp",
+    "oldPrice": 39.98,
+    "newPrice": 19.34,
+    "stock": 20,
+    "tags": [
+      {
+        "text": "Oferta",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 520,
+    "name": "Whisky Red Label 1L",
+    "category": "Destilados",
+    "image": "images/redlabel.webp",
+    "oldPrice": 119.9,
+    "newPrice": 69.25,
+    "stock": 12,
+    "tags": [
+      {
+        "text": "Clássico",
+        "color": "yellow"
+      }
+    ]
+  },
+  {
+    "id": 521,
+    "name": "Whisky Buchanan's 12 Anos",
+    "category": "Destilados",
+    "image": "images/buchannas.webp",
+    "oldPrice": 229.9,
+    "newPrice": 129.25,
+    "stock": 6,
+    "tags": [
+      {
+        "text": "Premium",
+        "color": "purple"
+      }
+    ]
+  },
+  {
+    "id": 522,
+    "name": "Whisky Johnnie Walker Black Label",
+    "category": "Destilados",
+    "image": "images/blacklabel.webp",
+    "oldPrice": 249.9,
+    "newPrice": 139.34,
+    "stock": 10,
+    "tags": [
+      {
+        "text": "Premium",
+        "color": "purple"
+      }
+    ]
+  },
+  {
+    "id": 523,
+    "name": "Vodka Absolut 1L",
+    "category": "Destilados",
+    "image": "images/absolut.webp",
+    "oldPrice": 149.9,
+    "newPrice": 64.34,
+    "stock": 15,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 524,
+    "name": "Vodka Ciroc 1L",
+    "category": "Destilados",
+    "image": "images/ciroc.webp",
+    "oldPrice": 229.9,
+    "newPrice": 96.25,
+    "stock": 12,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 525,
+    "name": "Whisky Gold Label 1L",
+    "category": "Destilados",
+    "image": "images/goldlabel.webp",
+    "oldPrice": 299.9,
+    "newPrice": 172.25,
+    "stock": 8,
+    "tags": [
+      {
+        "text": "Premium",
+        "color": "purple"
+      }
+    ]
+  },
+  {
+    "id": 526,
+    "name": "Whisky Green Label 1L",
+    "category": "Destilados",
+    "image": "images/greenlabel.webp",
+    "oldPrice": 449.9,
+    "newPrice": 203.34,
+    "stock": 6,
+    "tags": [
+      {
+        "text": "Premium",
+        "color": "purple"
+      }
+    ]
+  },
+  {
+    "id": 527,
+    "name": "Whisky Chivas Regal 12 anos 1L",
+    "category": "Destilados",
+    "image": "images/chivas.webp",
+    "oldPrice": 269.9,
+    "newPrice": 101.35,
+    "stock": 10,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 528,
+    "name": "Whisky Jack Daniels 1L",
+    "category": "Destilados",
+    "image": "images/jack7.webp",
+    "oldPrice": 120,
+    "newPrice": 56.34,
+    "stock": 15,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 529,
+    "name": "Whisky Jack Daniels Maçã 1L",
+    "category": "Destilados",
+    "image": "images/jackmaca.webp",
+    "oldPrice": 120,
+    "newPrice": 56.34,
+    "stock": 15,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 531,
+    "name": "Whisky Jack Daniels Mel 1L",
+    "category": "Destilados",
+    "image": "images/jackmel.webp",
+    "oldPrice": 120,
+    "newPrice": 56.34,
+    "stock": 15,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 532,
+    "name": "Whisky Jack Daniels Canela 1L",
+    "category": "Destilados",
+    "image": "images/jackcanela.webp",
+    "oldPrice": 120,
+    "newPrice": 56.34,
+    "stock": 0,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 533,
+    "name": "Whisky White Horse 1L",
+    "category": "Destilados",
+    "image": "images/whitehorse.webp",
+    "oldPrice": 79.99,
+    "newPrice": 44.25,
+    "stock": 20,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 530,
+    "name": "Vodka Smirnoff 1L",
+    "category": "Destilados",
+    "image": "images/smirfnoff.webp",
+    "oldPrice": 59.9,
+    "newPrice": 39.34,
+    "stock": 20,
+    "tags": [
+      {
+        "text": "Drinks",
+        "color": "blue"
+      }
+    ]
+  },
+  {
+    "id": 540,
+    "name": "Vinho Branco Seleção da Casa",
+    "category": "Vinhos",
+    "image": "images/vinhos/vinhobrancocombo.webp",
+    "oldPrice": 69.9,
+    "newPrice": 59.25,
+    "stock": 10,
+    "tags": []
+  },
+  {
+    "id": 541,
+    "name": "Vinho Tinto Seleção da Casa",
+    "category": "Vinhos",
+    "image": "images/vinhos/vinhocombo.webp",
+    "oldPrice": 79.9,
+    "newPrice": 64.25,
+    "stock": 10,
+    "tags": []
+  },
+  {
+    "id": 542,
+    "name": "Vinho Pergola Tinto 750ml",
+    "category": "Vinhos",
+    "image": "images/vinhos/pergola.webp",
+    "oldPrice": 39.9,
+    "newPrice": 24.25,
+    "stock": 25,
+    "tags": [
+      {
+        "text": "Chile",
+        "color": "blue"
+      }
+    ]
+  },
+  {
+    "id": 543,
+    "name": "Vinho Mioranza Tinto 750ml",
+    "category": "Vinhos",
+    "image": "images/vinhos/mioranza.webp",
+    "oldPrice": 89.9,
+    "newPrice": 22.34,
+    "stock": 12,
+    "tags": [
+      {
+        "text": "Brasil",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 544,
+    "name": "Vinho Casillero del Diablo 750ml",
+    "category": "Vinhos",
+    "image": "images/vinhos/casillero.webp",
+    "oldPrice": 69.9,
+    "newPrice": 54.25,
+    "stock": 18,
+    "tags": [
+      {
+        "text": "Concha y Toro",
+        "color": "purple"
+      }
+    ]
+  },
+  {
+    "id": 545,
+    "name": "Vinho Santa Helena Cabernet 750ml",
+    "category": "Vinhos",
+    "image": "images/vinhos/santa_helena.webp",
+    "oldPrice": 45.9,
+    "newPrice": 34.25,
+    "stock": 20,
+    "tags": [
+      {
+        "text": "Chile",
+        "color": "blue"
+      }
+    ]
+  },
+  {
+    "id": 546,
+    "name": "Vinho Trapiche Malbec 750ml",
+    "category": "Vinhos",
+    "image": "images/vinhos/trapiche.webp",
+    "oldPrice": 59.9,
+    "newPrice": 44.25,
+    "stock": 15,
+    "tags": [
+      {
+        "text": "Argentina",
+        "color": "red"
+      }
+    ]
+  },
+  {
+    "id": 547,
+    "name": "Vinho Carmen Tinto 750ml",
+    "category": "Vinhos",
+    "image": "images/vinhos/carmen.webp",
+    "oldPrice": 49.9,
+    "newPrice": 37.25,
+    "stock": 18,
+    "tags": [
+      {
+        "text": "Chile",
+        "color": "blue"
+      }
+    ]
+  },
+  {
+    "id": 548,
+    "name": "Vinho Santa Rita 120 750ml",
+    "category": "Vinhos",
+    "image": "images/vinhos/santa_rita.webp",
+    "oldPrice": 42.9,
+    "newPrice": 31.25,
+    "stock": 22,
+    "tags": [
+      {
+        "text": "Chile",
+        "color": "blue"
+      }
+    ]
+  },
+  {
+    "id": 549,
+    "name": "Vinho Caliterra Tributo 750ml",
+    "category": "Vinhos",
+    "image": "images/vinhos/caliterra.webp",
+    "oldPrice": 79.9,
+    "newPrice": 59.25,
+    "stock": 10,
+    "tags": [
+      {
+        "text": "Premium",
+        "color": "purple"
+      }
+    ]
+  },
+  {
+    "id": 552,
+    "name": "Vinho Undurraga Sibaris 750ml",
+    "category": "Vinhos",
+    "image": "images/vinhos/undurraga.webp",
+    "oldPrice": 55.9,
+    "newPrice": 42.25,
+    "stock": 14,
+    "tags": [
+      {
+        "text": "Chile",
+        "color": "blue"
+      }
+    ]
+  },
+  {
+    "id": 553,
+    "name": "Vinho Bodega Norton Malbec 750ml",
+    "category": "Vinhos",
+    "image": "images/vinhos/norton.webp",
+    "oldPrice": 65.9,
+    "newPrice": 49.25,
+    "stock": 12,
+    "tags": [
+      {
+        "text": "Argentina",
+        "color": "red"
+      }
+    ]
+  },
+  {
+    "id": 554,
+    "name": "Vinho Santa Helena Reservado Branco 750ml",
+    "category": "Vinhos",
+    "image": "images/vinhos/santa_helena_reservado.webp",
+    "oldPrice": 45.9,
+    "newPrice": 34.25,
+    "stock": 20,
+    "tags": [
+      {
+        "text": "Chile",
+        "color": "blue"
+      }
+    ]
+  },
+  {
+    "id": 555,
+    "name": "Vinho Aurora Varietal Branco 750ml",
+    "category": "Vinhos",
+    "image": "images/vinhos/aurora.webp",
+    "oldPrice": 42.9,
+    "newPrice": 31.25,
+    "stock": 22,
+    "tags": [
+      {
+        "text": "Brasil",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 556,
+    "name": "Vinho Pergola Suave Branco 750ml",
+    "category": "Vinhos",
+    "image": "images/vinhos/pergola_branco.webp",
+    "oldPrice": 36.9,
+    "newPrice": 26.25,
+    "stock": 25,
+    "tags": [
+      {
+        "text": "Chile",
+        "color": "blue"
+      }
+    ]
+  },
+  {
+    "id": 550,
+    "name": "Pacote Carvão 5kg",
+    "category": "Churrasco",
+    "image": "images/churrasco/carvao5kg.webp",
+    "oldPrice": 24.9,
+    "newPrice": 19.25,
+    "stock": 30,
+    "tags": []
+  },
+  {
+    "id": 557,
+    "name": "Acém Swift 1 KG",
+    "category": "Churrasco",
+    "image": "images/churrasco/acem.webp",
+    "oldPrice": 54.99,
+    "newPrice": 26.34,
+    "stock": 15,
+    "tags": [
+      {
+        "text": "Carne",
+        "color": "red"
+      }
+    ]
+  },
+  {
+    "id": 558,
+    "name": "Maminha Swift 1 KG",
+    "category": "Churrasco",
+    "image": "images/churrasco/maminha.webp",
+    "oldPrice": 49.98,
+    "newPrice": 24.25,
+    "stock": 15,
+    "tags": [
+      {
+        "text": "Carne",
+        "color": "red"
+      }
+    ]
+  },
+  {
+    "id": 559,
+    "name": "Picanha Swift 1kg",
+    "category": "Churrasco",
+    "image": "images/churrasco/picanha.webp",
+    "oldPrice": 89.9,
+    "newPrice": 38.15,
+    "stock": 12,
+    "tags": [
+      {
+        "text": "Carne",
+        "color": "red"
+      }
+    ]
+  },
+  {
+    "id": 562,
+    "name": "Carvão 3 Kg",
+    "category": "Churrasco",
+    "image": "images/churrasco/carvao3kg.webp",
+    "oldPrice": 16.9,
+    "newPrice": 12.25,
+    "stock": 25,
+    "tags": []
+  },
+  {
+    "id": 630,
+    "name": "Item de Conveniência",
+    "category": "Conveniência",
+    "image": "images/imgi_40_image.webp",
+    "oldPrice": 8.9,
+    "newPrice": 6.25,
+    "stock": 30,
+    "tags": []
+  },
+  {
+    "id": 631,
+    "name": "Chopp Potiguar 1,5L",
+    "category": "Chopp",
+    "image": "images/chopps/potiguar.webp",
+    "oldPrice": 18.9,
+    "newPrice": 8.34,
+    "stock": 25,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 632,
+    "name": "Chopp Wenbier 58 1,5L",
+    "category": "Chopp",
+    "image": "images/chopps/wenbier.webp",
+    "oldPrice": 26.9,
+    "newPrice": 12.34,
+    "stock": 20,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 633,
+    "name": "Chopp de vinho PinkMoon 600ml",
+    "category": "Chopp",
+    "image": "images/chopps/pinkmoon.webp",
+    "oldPrice": 9.99,
+    "newPrice": 6.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Vinho",
+        "color": "purple"
+      }
+    ]
+  },
+  {
+    "id": 634,
+    "name": "Chopp de vinho Draft 600ml",
+    "category": "Chopp",
+    "image": "images/chopps/draft.webp",
+    "oldPrice": 8.99,
+    "newPrice": 5.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Vinho",
+        "color": "purple"
+      }
+    ]
+  },
+  {
+    "id": 635,
+    "name": "Saco de gelo 10KG",
+    "category": "Águas e Gelo",
+    "image": "images/agua_e_gelo/gelo10kg.webp",
+    "oldPrice": 25,
+    "newPrice": 13.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 636,
+    "name": "Saco de gelo 5KG",
+    "category": "Águas e Gelo",
+    "image": "images/agua_e_gelo/gelo5kg.webp",
+    "oldPrice": 15.99,
+    "newPrice": 9.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 637,
+    "name": "Água Crystal 1.5 Litros sem gás",
+    "category": "Águas e Gelo",
+    "image": "images/agua_e_gelo/cristal15semgas.webp",
+    "oldPrice": 8.99,
+    "newPrice": 6.34,
+    "stock": 50,
+    "tags": []
+  },
+  {
+    "id": 638,
+    "name": "Água Crystal 1.5 Litros com gás",
+    "category": "Águas e Gelo",
+    "image": "images/agua_e_gelo/cristal15comgas.webp",
+    "oldPrice": 9.99,
+    "newPrice": 7.34,
+    "stock": 50,
+    "tags": []
+  },
+  {
+    "id": 639,
+    "name": "Gelo de coco Coco leve Tradicional",
+    "category": "Águas e Gelo",
+    "image": "images/agua_e_gelo/gelodecoco.webp",
+    "oldPrice": 3,
+    "newPrice": 0.85,
+    "stock": 60,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 640,
+    "name": "Gelo de coco Coco leve Maça verde",
+    "category": "Águas e Gelo",
+    "image": "images/agua_e_gelo/gelomacaverde.webp",
+    "oldPrice": 3,
+    "newPrice": 0.85,
+    "stock": 60,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 641,
+    "name": "Gelo de coco Coco leve Morango",
+    "category": "Águas e Gelo",
+    "image": "images/agua_e_gelo/gelomorango.webp",
+    "oldPrice": 3,
+    "newPrice": 0.85,
+    "stock": 60,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 642,
+    "name": "Gelo de coco Coco leve Maracuja",
+    "category": "Águas e Gelo",
+    "image": "images/agua_e_gelo/gelomaracuja.webp",
+    "oldPrice": 3,
+    "newPrice": 0.85,
+    "stock": 60,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 643,
+    "name": "Gelo de coco Coco leve Melancia",
+    "category": "Águas e Gelo",
+    "image": "images/agua_e_gelo/gelodemelancia.webp",
+    "oldPrice": 3,
+    "newPrice": 0.85,
+    "stock": 60,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 644,
+    "name": "Água Crystal S/gás 500ml",
+    "category": "Águas e Gelo",
+    "image": "images/agua_e_gelo/semgas500ml.webp",
+    "oldPrice": 1.5,
+    "newPrice": 0.35,
+    "stock": 80,
+    "tags": []
+  },
+  {
+    "id": 645,
+    "name": "Água Crystal c/gás 500ml",
+    "category": "Águas e Gelo",
+    "image": "images/agua_e_gelo/comgas500ml.webp",
+    "oldPrice": 1.5,
+    "newPrice": 0.54,
+    "stock": 80,
+    "tags": []
+  },
+  {
+    "id": 646,
+    "name": "51 Ice Tangerina",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/51icetangerina.webp",
+    "oldPrice": 6.99,
+    "newPrice": 3.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 647,
+    "name": "51 Ice Maracuja",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/51icemaracuja.webp",
+    "oldPrice": 6.99,
+    "newPrice": 3.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 648,
+    "name": "51 Ice Kiwi",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/51icekiwi.webp",
+    "oldPrice": 6.99,
+    "newPrice": 3.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 649,
+    "name": "51 Ice Fruit Mix",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/51icefruitmix.webp",
+    "oldPrice": 6.99,
+    "newPrice": 3.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 650,
+    "name": "51 Ice Balada",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/51icebalada.webp",
+    "oldPrice": 6.99,
+    "newPrice": 3.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 651,
+    "name": "51 Ice Limao",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/51icelimao.webp",
+    "oldPrice": 6.99,
+    "newPrice": 3.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 652,
+    "name": "51 Ice açaí",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/51iceacai.webp",
+    "oldPrice": 6.99,
+    "newPrice": 3.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 653,
+    "name": "51 Ice Melancia",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/51icemelancia.webp",
+    "oldPrice": 6.99,
+    "newPrice": 3.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 654,
+    "name": "Skol BEATS garrafa 269ml Gin e Tonica",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/269skolgt.webp",
+    "oldPrice": 9.99,
+    "newPrice": 5.34,
+    "stock": 35,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 655,
+    "name": "Skol BEATS garrafa 269ml Spirits",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/skolbeatsspirit269.webp",
+    "oldPrice": 9.99,
+    "newPrice": 5.34,
+    "stock": 35,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 656,
+    "name": "Skol BEATS garrafa 269ml Caipibeats",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/269caipibeats.webp",
+    "oldPrice": 9.99,
+    "newPrice": 5.34,
+    "stock": 35,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 657,
+    "name": "Skol BEATS garrafa 269ml RedMix",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/269redmix.webp",
+    "oldPrice": 9.99,
+    "newPrice": 5.34,
+    "stock": 35,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 658,
+    "name": "Skol BEATS garrafa 269ml Tropical",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/269tropical.webp",
+    "oldPrice": 9.99,
+    "newPrice": 5.34,
+    "stock": 35,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 659,
+    "name": "Skol BEATS garrafa 269ml Senses",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/269senses.webp",
+    "oldPrice": 9.99,
+    "newPrice": 5.34,
+    "stock": 35,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 660,
+    "name": "Skol BEATS lata Secret 269ml",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/skolsecret.webp",
+    "oldPrice": 8.99,
+    "newPrice": 3.85,
+    "stock": 35,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 661,
+    "name": "Skol BEATS lata Mint 269ml",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/skolmint.webp",
+    "oldPrice": 8.99,
+    "newPrice": 3.85,
+    "stock": 35,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 662,
+    "name": "Skol BEATS lata Senses 269ml",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/skolbeatssenses.webp",
+    "oldPrice": 8.99,
+    "newPrice": 3.85,
+    "stock": 35,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 663,
+    "name": "Skol BEATS lata RedMix 269ml",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/beatsredmix.webp",
+    "oldPrice": 8.99,
+    "newPrice": 3.85,
+    "stock": 35,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 664,
+    "name": "Skol BEATS lata Gin e Tonica 269ml",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/skolbeatsgt.webp",
+    "oldPrice": 8.99,
+    "newPrice": 3.85,
+    "stock": 35,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 665,
+    "name": "Skol BEATS lata Green Mix 269ml",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/beatsgreenmix.webp",
+    "oldPrice": 8.99,
+    "newPrice": 3.85,
+    "stock": 35,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 666,
+    "name": "Skol BEATS lata Tropical 269ml",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/beatstropical.webp",
+    "oldPrice": 8.99,
+    "newPrice": 3.85,
+    "stock": 35,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 667,
+    "name": "Skol BEATS lata Caipibeats 269ml",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/caipibeats.webp",
+    "oldPrice": 8.99,
+    "newPrice": 3.85,
+    "stock": 35,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 668,
+    "name": "Drink Pronto Mansão Maromba Melancia 1L",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/mansaomelancia.webp",
+    "oldPrice": 16.99,
+    "newPrice": 9.35,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 669,
+    "name": "Drink Pronto Mansão Maromba Job 1L",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/whiskyjobmansao.webp",
+    "oldPrice": 16.99,
+    "newPrice": 9.35,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 670,
+    "name": "Drink Pronto Mansão Maromba Whisky 1L",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/whiskymansao.webp",
+    "oldPrice": 16.99,
+    "newPrice": 9.35,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 671,
+    "name": "Drink Pronto Mansão Maromba GinGolBels 1L",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/gingolbelsmansao.webp",
+    "oldPrice": 16.99,
+    "newPrice": 9.35,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 672,
+    "name": "Drink Pronto Mansão Maromba Double Darkness 1L",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/doubledarknessmansao.webp",
+    "oldPrice": 16.99,
+    "newPrice": 9.35,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 673,
+    "name": "Drink Pronto Mansão Maromba Tigrinho 1L",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/tigrinhomansao.webp",
+    "oldPrice": 16.99,
+    "newPrice": 9.35,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 674,
+    "name": "Drink Pronto Mansão Maromba Maçã Verde 1L",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/macamansao.webp",
+    "oldPrice": 16.99,
+    "newPrice": 9.35,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 675,
+    "name": "Drink Pronto Mansão Maromba Vodka 1L",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/vodkamansao.webp",
+    "oldPrice": 16.99,
+    "newPrice": 9.35,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 676,
+    "name": "Smirfnoff Ice 275ml Tradicional",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/icetradicional.webp",
+    "oldPrice": 7.99,
+    "newPrice": 4.85,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 677,
+    "name": "Smirfnoff Ice 275ml Raspberry",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/raspberry.webp",
+    "oldPrice": 7.99,
+    "newPrice": 4.85,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 678,
+    "name": "Smirfnoff Ice 275ml Green Apple",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/icegreenapple.webp",
+    "oldPrice": 7.99,
+    "newPrice": 4.85,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 679,
+    "name": "Corote 500ml Pêssego",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/corotepessego.webp",
+    "oldPrice": 5.99,
+    "newPrice": 2.85,
+    "stock": 50,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 680,
+    "name": "Corote 500ml Morango",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/corotemorango.webp",
+    "oldPrice": 5.99,
+    "newPrice": 2.85,
+    "stock": 50,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 681,
+    "name": "Corote 500ml Limão",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/corotelimao.webp",
+    "oldPrice": 5.99,
+    "newPrice": 2.85,
+    "stock": 50,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 682,
+    "name": "Corote 500ml BlueBerry",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/coroteblueberry.webp",
+    "oldPrice": 5.99,
+    "newPrice": 2.85,
+    "stock": 50,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 683,
+    "name": "Corote 500ml Maracujá",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/corotemaracuja.webp",
+    "oldPrice": 5.99,
+    "newPrice": 2.85,
+    "stock": 50,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 684,
+    "name": "Corote 500ml Tutti-Frutti",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/corotetuttifruti.webp",
+    "oldPrice": 5.99,
+    "newPrice": 2.85,
+    "stock": 50,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 685,
+    "name": "Corote 500ml Menta",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/corotementa.webp",
+    "oldPrice": 5.99,
+    "newPrice": 2.85,
+    "stock": 50,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 686,
+    "name": "Corote 500ml Baunilha",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/corotebaunilha.webp",
+    "oldPrice": 5.99,
+    "newPrice": 2.85,
+    "stock": 50,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 687,
+    "name": "Corote 500ml Canelinha",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/corotecanelinha.webp",
+    "oldPrice": 5.99,
+    "newPrice": 2.85,
+    "stock": 50,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 688,
+    "name": "Corote 500ml Melancia",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/corotemelancia.webp",
+    "oldPrice": 5.99,
+    "newPrice": 2.85,
+    "stock": 50,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 689,
+    "name": "Corote 500ml Frutas Silvestres",
+    "category": "Drinks Prontos",
+    "image": "images/drinks_prontos/corotefrutassilvestres.webp",
+    "oldPrice": 5.99,
+    "newPrice": 2.85,
+    "stock": 50,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 690,
+    "name": "Cigarro Dunhil",
+    "category": "Cigarros",
+    "image": "images/cigarros/carlton.webp",
+    "oldPrice": 15.99,
+    "newPrice": 11.34,
+    "stock": 25,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 691,
+    "name": "Cigarro Chesterfield",
+    "category": "Cigarros",
+    "image": "images/cigarros/chesterfield.webp",
+    "oldPrice": 15.99,
+    "newPrice": 13.34,
+    "stock": 25,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 692,
+    "name": "Cigarro Gift",
+    "category": "Cigarros",
+    "image": "images/cigarros/gift.webp",
+    "oldPrice": 9.99,
+    "newPrice": 7.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 693,
+    "name": "Cigarro Marlboro Gold",
+    "category": "Cigarros",
+    "image": "images/cigarros/malborogold..webp",
+    "oldPrice": 15.99,
+    "newPrice": 13.34,
+    "stock": 25,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 694,
+    "name": "Cigarro Marlboro Red",
+    "category": "Cigarros",
+    "image": "images/cigarros/malborored.webp",
+    "oldPrice": 17.99,
+    "newPrice": 12.34,
+    "stock": 25,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 695,
+    "name": "Cigarro Marlboro Tropical Fusion",
+    "category": "Cigarros",
+    "image": "images/cigarros/malborotropical.webp",
+    "oldPrice": 15.99,
+    "newPrice": 12.34,
+    "stock": 25,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 696,
+    "name": "Cigarro Marlboro Purple Fusion",
+    "category": "Cigarros",
+    "image": "images/cigarros/malboropurple.webp",
+    "oldPrice": 15.99,
+    "newPrice": 12.34,
+    "stock": 25,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 697,
+    "name": "Cigarro Kent",
+    "category": "Cigarros",
+    "image": "images/cigarros/KENT.webp",
+    "oldPrice": 17.99,
+    "newPrice": 9.34,
+    "stock": 25,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 698,
+    "name": "Cigarro Rothmans Blue",
+    "category": "Cigarros",
+    "image": "images/cigarros/rothmansblue.webp",
+    "oldPrice": 12.99,
+    "newPrice": 10.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 699,
+    "name": "Cigarro Rothmans Red",
+    "category": "Cigarros",
+    "image": "images/cigarros/rothmansred.webp",
+    "oldPrice": 12.99,
+    "newPrice": 10.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 700,
+    "name": "Cigarro Rothmans Global",
+    "category": "Cigarros",
+    "image": "images/cigarros/rothmansglobal.webp",
+    "oldPrice": 12.99,
+    "newPrice": 10.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 701,
+    "name": "Cigarro Lucky Strike Mint",
+    "category": "Cigarros",
+    "image": "images/cigarros/luckystrike.webp",
+    "oldPrice": 15.99,
+    "newPrice": 10.34,
+    "stock": 25,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 702,
+    "name": "Brahma 0% - Lata 350ml",
+    "category": "Cervejas",
+    "image": "images/cervejas/bramazero.webp",
+    "oldPrice": 7.98,
+    "newPrice": 3.34,
+    "stock": 60,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 703,
+    "name": "Brahma Malzbier - Lata 350ml",
+    "category": "Cervejas",
+    "image": "images/cervejas/bramamalzbier.webp",
+    "oldPrice": 7.98,
+    "newPrice": 1.74,
+    "stock": 60,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 704,
+    "name": "Brahma Duplo Malte Black - Lata 350ml",
+    "category": "Cervejas",
+    "image": "images/cervejas/bramaduplomalteblack.webp",
+    "oldPrice": 8.98,
+    "newPrice": 3.84,
+    "stock": 50,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 705,
+    "name": "Brahma Chopp - Lata 350ml",
+    "category": "Cervejas",
+    "image": "images/cervejas/bramachopp.webp",
+    "oldPrice": 7.98,
+    "newPrice": 1.74,
+    "stock": 60,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 706,
+    "name": "Brahma Duplo Malte - Lata 350ml",
+    "category": "Cervejas",
+    "image": "images/cervejas/bramaduplomalte.webp",
+    "oldPrice": 8.98,
+    "newPrice": 3.84,
+    "stock": 50,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 707,
+    "name": "Amstel Lager - Lata 350ml",
+    "category": "Cervejas",
+    "image": "images/cervejas/amstel.webp",
+    "oldPrice": 7.98,
+    "newPrice": 1.74,
+    "stock": 60,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 708,
+    "name": "Antarctica Original - Lata 350ml",
+    "category": "Cervejas",
+    "image": "images/cervejas/original.webp",
+    "oldPrice": 7.98,
+    "newPrice": 1.74,
+    "stock": 60,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 709,
+    "name": "Itaipava Tradicional - Lata 350ml",
+    "category": "Cervejas",
+    "image": "images/cervejas/itaipavatradicional.webp",
+    "oldPrice": 6.98,
+    "newPrice": 1.44,
+    "stock": 60,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 710,
+    "name": "Itaipava Vermelha - Lata 350ml",
+    "category": "Cervejas",
+    "image": "images/cervejas/itaipavavermelha.webp",
+    "oldPrice": 6.98,
+    "newPrice": 1.44,
+    "stock": 60,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 711,
+    "name": "Antarctica Original Pilsen - Lata 350ml",
+    "category": "Cervejas",
+    "image": "images/cervejas/antartica.webp",
+    "oldPrice": 7.98,
+    "newPrice": 3.34,
+    "stock": 60,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 712,
+    "name": "Petra Puro Malte - Lata 350ml",
+    "category": "Cervejas",
+    "image": "images/cervejas/petra.webp",
+    "oldPrice": 8.98,
+    "newPrice": 2.04,
+    "stock": 50,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 713,
+    "name": "Heineken Garrafa - 330ml",
+    "category": "Cervejas",
+    "image": "images/cervejas/heinekengarrafa.webp",
+    "oldPrice": 9.98,
+    "newPrice": 4.34,
+    "stock": 50,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 714,
+    "name": "Heineken Lata - 350ml",
+    "category": "Cervejas",
+    "image": "images/cervejas/heinekenlata.webp",
+    "oldPrice": 9.98,
+    "newPrice": 2.34,
+    "stock": 50,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 715,
+    "name": "Corona Extra - Garrafa 330ml",
+    "category": "Cervejas",
+    "image": "images/cervejas/coronaextra.webp",
+    "oldPrice": 11.98,
+    "newPrice": 2.94,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 716,
+    "name": "Tiger Pure Malt - Lata 473ml",
+    "category": "Cervejas",
+    "image": "images/cervejas/tiger.webp",
+    "oldPrice": 10.98,
+    "newPrice": 4.84,
+    "stock": 45,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 717,
+    "name": "Cacildis - Lata 350ml",
+    "category": "Cervejas",
+    "image": "images/cervejas/cacildis.webp",
+    "oldPrice": 7.98,
+    "newPrice": 1.74,
+    "stock": 60,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 718,
+    "name": "Budweiser - Lata 350ml",
+    "category": "Cervejas",
+    "image": "images/cervejas/budwiser.webp",
+    "oldPrice": 8.98,
+    "newPrice": 2.04,
+    "stock": 50,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 719,
+    "name": "Skol Puro Malte - Lata 350ml",
+    "category": "Cervejas",
+    "image": "images/cervejas/skolpuromalte.webp",
+    "oldPrice": 7.98,
+    "newPrice": 3.34,
+    "stock": 60,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 720,
+    "name": "Skol - Lata 350ml",
+    "category": "Cervejas",
+    "image": "images/cervejas/skol.webp",
+    "oldPrice": 6.98,
+    "newPrice": 1.44,
+    "stock": 60,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 721,
+    "name": "Red Bull Melão - Lata 250ml",
+    "category": "Energéticos",
+    "image": "images/energeticos/redbullmelao.webp",
+    "oldPrice": 11.98,
+    "newPrice": 5.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 722,
+    "name": "Red Bull Tropical - Lata 250ml",
+    "category": "Energéticos",
+    "image": "images/energeticos/redbulltropical.webp",
+    "oldPrice": 11.98,
+    "newPrice": 5.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 723,
+    "name": "Red Bull Melancia - Lata 250ml",
+    "category": "Energéticos",
+    "image": "images/energeticos/redbullmelancia.webp",
+    "oldPrice": 11.98,
+    "newPrice": 5.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 724,
+    "name": "Red Bull Pêssego - Lata 250ml",
+    "category": "Energéticos",
+    "image": "images/energeticos/redbullpessego.webp",
+    "oldPrice": 11.98,
+    "newPrice": 5.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 725,
+    "name": "Red Bull Cereja - Lata 250ml",
+    "category": "Energéticos",
+    "image": "images/energeticos/redbullcereja.webp",
+    "oldPrice": 11.98,
+    "newPrice": 5.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 726,
+    "name": "Red Bull Summer Edition - Lata 250ml",
+    "category": "Energéticos",
+    "image": "images/energeticos/redbullsummer.webp",
+    "oldPrice": 11.98,
+    "newPrice": 5.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 727,
+    "name": "Red Bull Maçã - Lata 250ml",
+    "category": "Energéticos",
+    "image": "images/energeticos/redbullmaca.webp",
+    "oldPrice": 11.98,
+    "newPrice": 5.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 728,
+    "name": "Red Bull Pomelo - Lata 250ml",
+    "category": "Energéticos",
+    "image": "images/energeticos/redbullpomelo.webp",
+    "oldPrice": 11.98,
+    "newPrice": 5.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 729,
+    "name": "Red Bull Amora - Lata 250ml",
+    "category": "Energéticos",
+    "image": "images/energeticos/redbullamora.webp",
+    "oldPrice": 11.98,
+    "newPrice": 5.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 730,
+    "name": "Red Bull Winter Edition - Lata 250ml",
+    "category": "Energéticos",
+    "image": "images/energeticos/redbullwinter.webp",
+    "oldPrice": 11.98,
+    "newPrice": 5.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 731,
+    "name": "Red Bull Tradicional - Lata 250ml",
+    "category": "Energéticos",
+    "image": "images/energeticos/redbulltradicional.webp",
+    "oldPrice": 11.98,
+    "newPrice": 5.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 732,
+    "name": "Baly Summer - Garrafa 2L",
+    "category": "Energéticos",
+    "image": "images/energeticos/balysummer.webp",
+    "oldPrice": 19.98,
+    "newPrice": 9.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 733,
+    "name": "Baly Pêssego - Garrafa 2L",
+    "category": "Energéticos",
+    "image": "images/energeticos/balypessego.webp",
+    "oldPrice": 19.98,
+    "newPrice": 9.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 734,
+    "name": "Baly Tropical - Garrafa 2L",
+    "category": "Energéticos",
+    "image": "images/energeticos/balytropical.webp",
+    "oldPrice": 19.98,
+    "newPrice": 9.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 735,
+    "name": "Baly Coco - Garrafa 2L",
+    "category": "Energéticos",
+    "image": "images/energeticos/balycoco.webp",
+    "oldPrice": 19.98,
+    "newPrice": 9.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 736,
+    "name": "Baly Abacaxi - Garrafa 2L",
+    "category": "Energéticos",
+    "image": "images/energeticos/balyabacaxi.webp",
+    "oldPrice": 19.98,
+    "newPrice": 9.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 737,
+    "name": "Baly Maçã Verde - Garrafa 2L",
+    "category": "Energéticos",
+    "image": "images/energeticos/balymacaverde.webp",
+    "oldPrice": 19.98,
+    "newPrice": 9.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 738,
+    "name": "Baly Morango - Garrafa 2L",
+    "category": "Energéticos",
+    "image": "images/energeticos/balymorango.webp",
+    "oldPrice": 19.98,
+    "newPrice": 9.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 739,
+    "name": "Baly Tradicional - Garrafa 2L",
+    "category": "Energéticos",
+    "image": "images/energeticos/balytradicional.webp",
+    "oldPrice": 19.98,
+    "newPrice": 9.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 740,
+    "name": "Baly Berry - Garrafa 2L",
+    "category": "Energéticos",
+    "image": "images/energeticos/balyberry.webp",
+    "oldPrice": 19.98,
+    "newPrice": 9.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 741,
+    "name": "Baly Pitaya - Garrafa 2L",
+    "category": "Energéticos",
+    "image": "images/energeticos/balypitaya.webp",
+    "oldPrice": 19.98,
+    "newPrice": 9.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 742,
+    "name": "Baly Açaí - Garrafa 2L",
+    "category": "Energéticos",
+    "image": "images/energeticos/balyacai.webp",
+    "oldPrice": 19.98,
+    "newPrice": 9.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 743,
+    "name": "Monster Khaos - Lata 473ml",
+    "category": "Energéticos",
+    "image": "images/energeticos/monster_khaos.webp",
+    "oldPrice": 13.98,
+    "newPrice": 6.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 744,
+    "name": "Monster Khaotic - Lata 473ml",
+    "category": "Energéticos",
+    "image": "images/energeticos/monster_khaotic.webp",
+    "oldPrice": 13.98,
+    "newPrice": 6.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 745,
+    "name": "Monster Pipeline Punch - Lata 473ml",
+    "category": "Energéticos",
+    "image": "images/energeticos/monster_pipeline_punch.webp",
+    "oldPrice": 13.98,
+    "newPrice": 6.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 746,
+    "name": "Monster Pacific Punch - Lata 473ml",
+    "category": "Energéticos",
+    "image": "images/energeticos/monster_pacific_punch.webp",
+    "oldPrice": 13.98,
+    "newPrice": 6.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 747,
+    "name": "Monster Mango Loco - Lata 473ml",
+    "category": "Energéticos",
+    "image": "images/energeticos/monster_mango_loco.webp",
+    "oldPrice": 13.98,
+    "newPrice": 6.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 748,
+    "name": "Monster Rio Punch - Lata 473ml",
+    "category": "Energéticos",
+    "image": "images/energeticos/monter_rio_punch.webp",
+    "oldPrice": 13.98,
+    "newPrice": 6.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 749,
+    "name": "Monster Peach - Lata 473ml",
+    "category": "Energéticos",
+    "image": "images/energeticos/monster_peach.webp",
+    "oldPrice": 13.98,
+    "newPrice": 6.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 750,
+    "name": "Monster Lemon - Lata 473ml",
+    "category": "Energéticos",
+    "image": "images/energeticos/monster_lemon.webp",
+    "oldPrice": 13.98,
+    "newPrice": 6.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 751,
+    "name": "Monster Ultra Paradise - Lata 473ml",
+    "category": "Energéticos",
+    "image": "images/energeticos/monster_ultra_paradise.webp",
+    "oldPrice": 13.98,
+    "newPrice": 6.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 752,
+    "name": "Monster Watermelon - Lata 473ml",
+    "category": "Energéticos",
+    "image": "images/energeticos/monster_watermelon.webp",
+    "oldPrice": 13.98,
+    "newPrice": 6.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 753,
+    "name": "Monster Ultra Violet - Lata 473ml",
+    "category": "Energéticos",
+    "image": "images/energeticos/monster_ultra_violet.webp",
+    "oldPrice": 13.98,
+    "newPrice": 6.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 754,
+    "name": "Monster Ultra Peachy - Lata 473ml",
+    "category": "Energéticos",
+    "image": "images/energeticos/monster_ultra_peachy.webp",
+    "oldPrice": 13.98,
+    "newPrice": 6.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 755,
+    "name": "Monster Ultra Mango - Lata 473ml",
+    "category": "Energéticos",
+    "image": "images/energeticos/monster_ultra_mango.webp",
+    "oldPrice": 13.98,
+    "newPrice": 6.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 756,
+    "name": "Monster Branca (Ultra White) - Lata 473ml",
+    "category": "Energéticos",
+    "image": "images/energeticos/monsterbranca.webp",
+    "oldPrice": 13.98,
+    "newPrice": 6.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 757,
+    "name": "Monster Absolute Zero - Lata 473ml",
+    "category": "Energéticos",
+    "image": "images/energeticos/monsterabsolutezero.webp",
+    "oldPrice": 13.98,
+    "newPrice": 6.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 758,
+    "name": "Monster Tradicional (Verde) - Lata 473ml",
+    "category": "Energéticos",
+    "image": "images/energeticos/monstertradzero.webp",
+    "oldPrice": 13.98,
+    "newPrice": 6.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 759,
+    "name": "Monster Tradicional (Preto) - Lata 473ml",
+    "category": "Energéticos",
+    "image": "images/energeticos/monstertradicional.webp",
+    "oldPrice": 13.98,
+    "newPrice": 6.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 760,
+    "name": "Pirakids Chocolate - Caixinha 200ml",
+    "category": "Não alcoólicos",
+    "image": "images/nao_alcoolicos/pirakidscaixinha.webp",
+    "oldPrice": 5.98,
+    "newPrice": 2.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 761,
+    "name": "Pirakids Chocolate - Caixa 1L",
+    "category": "Não alcoólicos",
+    "image": "images/nao_alcoolicos/pirakidslitro.webp",
+    "oldPrice": 9.98,
+    "newPrice": 4.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 762,
+    "name": "Água Tônica Antarctica Tradicional - Lata 350ml",
+    "category": "Não alcoólicos",
+    "image": "images/nao_alcoolicos/aguatonicatradicional.webp",
+    "oldPrice": 6.98,
+    "newPrice": 2.84,
+    "stock": 50,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 763,
+    "name": "Água Tônica Antarctica Zero - Lata 350ml",
+    "category": "Não alcoólicos",
+    "image": "images/nao_alcoolicos/aguatonicazero.webp",
+    "oldPrice": 6.98,
+    "newPrice": 2.84,
+    "stock": 50,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 764,
+    "name": "Gatorade Limão - Garrafa 500ml",
+    "category": "Não alcoólicos",
+    "image": "images/nao_alcoolicos/gatoradelimao.webp",
+    "oldPrice": 7.98,
+    "newPrice": 3.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 765,
+    "name": "Gatorade Morango - Garrafa 500ml",
+    "category": "Não alcoólicos",
+    "image": "images/nao_alcoolicos/gatorademorango.webp",
+    "oldPrice": 7.98,
+    "newPrice": 3.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 766,
+    "name": "Gatorade Uva - Garrafa 500ml",
+    "category": "Não alcoólicos",
+    "image": "images/nao_alcoolicos/gatoradeuva.webp",
+    "oldPrice": 7.98,
+    "newPrice": 3.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 767,
+    "name": "Gatorade Laranja - Garrafa 500ml",
+    "category": "Não alcoólicos",
+    "image": "images/nao_alcoolicos/gatoradelaranja.webp",
+    "oldPrice": 7.98,
+    "newPrice": 3.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 768,
+    "name": "Gatorade Blueberry - Garrafa 500ml",
+    "category": "Não alcoólicos",
+    "image": "images/nao_alcoolicos/gatoradeblueberry.webp",
+    "oldPrice": 7.98,
+    "newPrice": 3.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 769,
+    "name": "Chá Matte Leão Natural - Lata 330ml",
+    "category": "Não alcoólicos",
+    "image": "images/nao_alcoolicos/chamatteleaoazul.webp",
+    "oldPrice": 6.98,
+    "newPrice": 2.84,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 770,
+    "name": "Chá Matte Leão Pêssego - Lata 330ml",
+    "category": "Não alcoólicos",
+    "image": "images/nao_alcoolicos/chatmatteleaolaranja.webp",
+    "oldPrice": 6.98,
+    "newPrice": 2.84,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 771,
+    "name": "Suco Maracujá Del Valle - Caixa 1L",
+    "category": "Não alcoólicos",
+    "image": "images/nao_alcoolicos/caixamaracuja.webp",
+    "oldPrice": 9.98,
+    "newPrice": 4.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 772,
+    "name": "Suco Uva Del Valle - Caixa 1L",
+    "category": "Não alcoólicos",
+    "image": "images/nao_alcoolicos/caixauva.webp",
+    "oldPrice": 9.98,
+    "newPrice": 4.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 773,
+    "name": "Suco Laranja Del Valle - Caixa 1L",
+    "category": "Não alcoólicos",
+    "image": "images/nao_alcoolicos/caixinhalaranja.webp",
+    "oldPrice": 9.98,
+    "newPrice": 4.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 774,
+    "name": "Suco Uva Del Valle - Lata 290ml",
+    "category": "Não alcoólicos",
+    "image": "images/nao_alcoolicos/latauva.webp",
+    "oldPrice": 5.98,
+    "newPrice": 2.34,
+    "stock": 50,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 775,
+    "name": "Suco Maracujá Del Valle - Lata 290ml",
+    "category": "Não alcoólicos",
+    "image": "images/nao_alcoolicos/latamaracuja.webp",
+    "oldPrice": 5.98,
+    "newPrice": 2.34,
+    "stock": 50,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 776,
+    "name": "Suco Goiaba Del Valle - Lata 290ml",
+    "category": "Não alcoólicos",
+    "image": "images/nao_alcoolicos/latagoiaba.webp",
+    "oldPrice": 5.98,
+    "newPrice": 2.34,
+    "stock": 50,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 777,
+    "name": "Suco Goiaba Del Valle - Garrafa 1L",
+    "category": "Não alcoólicos",
+    "image": "images/nao_alcoolicos/sucodelvalegoiaba.webp",
+    "oldPrice": 11.98,
+    "newPrice": 5.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 778,
+    "name": "Água de Coco Sococo - Caixa 1L",
+    "category": "Não alcoólicos",
+    "image": "images/nao_alcoolicos/aguadecoco.webp",
+    "oldPrice": 11.98,
+    "newPrice": 5.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 779,
+    "name": "Toddynho - Caixa 200ml",
+    "category": "Não alcoólicos",
+    "image": "images/nao_alcoolicos/todynho.webp",
+    "oldPrice": 5.98,
+    "newPrice": 2.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 780,
+    "name": "Suco Pêssego Del Valle - Lata 290ml",
+    "category": "Não alcoólicos",
+    "image": "images/nao_alcoolicos/latapessego.webp",
+    "oldPrice": 5.98,
+    "newPrice": 2.34,
+    "stock": 50,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 781,
+    "name": "Amendoim Japonês - Pacote 145g",
+    "category": "Mercearia",
+    "image": "images/mercearia/amendoin.webp",
+    "oldPrice": 7.98,
+    "newPrice": 3.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 782,
+    "name": "Cheetos - Pacote 57g",
+    "category": "Mercearia",
+    "image": "images/mercearia/cheetos.webp",
+    "oldPrice": 6.98,
+    "newPrice": 2.84,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 783,
+    "name": "Doritos - Pacote 80g",
+    "category": "Mercearia",
+    "image": "images/mercearia/doritos.webp",
+    "oldPrice": 7.98,
+    "newPrice": 3.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 784,
+    "name": "Eqlibri - Pacote 40g",
+    "category": "Mercearia",
+    "image": "images/mercearia/eqilibri.webp",
+    "oldPrice": 5.98,
+    "newPrice": 2.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 785,
+    "name": "Lays Clássica - Pacote 96g",
+    "category": "Mercearia",
+    "image": "images/mercearia/lays_classica.webp",
+    "oldPrice": 7.98,
+    "newPrice": 3.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 786,
+    "name": "Lays Sour Cream - Pacote 96g",
+    "category": "Mercearia",
+    "image": "images/mercearia/lays_sour_cream.webp",
+    "oldPrice": 7.98,
+    "newPrice": 3.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 787,
+    "name": "Pipoca Yoki Manteiga de Cinema - Pacote 100g",
+    "category": "Mercearia",
+    "image": "images/mercearia/manteiga_de_cinema.webp",
+    "oldPrice": 5.98,
+    "newPrice": 2.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 788,
+    "name": "Ovinhos - Pacote 500g",
+    "category": "Mercearia",
+    "image": "images/mercearia/ovinhos.webp",
+    "oldPrice": 11.98,
+    "newPrice": 5.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 789,
+    "name": "Pipoca Temperada Yoki - Pacote 100g",
+    "category": "Mercearia",
+    "image": "images/mercearia/pipoca_temperada.webp",
+    "oldPrice": 5.98,
+    "newPrice": 2.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 790,
+    "name": "Pipoca Premium Yoki - Pacote 160g",
+    "category": "Mercearia",
+    "image": "images/mercearia/pipocapremium.webp",
+    "oldPrice": 6.98,
+    "newPrice": 2.84,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 791,
+    "name": "Pringles Cebola - Lata 120g",
+    "category": "Mercearia",
+    "image": "images/mercearia/pringlescebola.webp",
+    "oldPrice": 11.98,
+    "newPrice": 5.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 792,
+    "name": "Ruffles - Pacote 96g",
+    "category": "Mercearia",
+    "image": "images/mercearia/ruffles.webp",
+    "oldPrice": 7.98,
+    "newPrice": 3.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 793,
+    "name": "Amendoim Sem Pele - Pacote 500g",
+    "category": "Mercearia",
+    "image": "images/mercearia/sem_pele.webp",
+    "oldPrice": 11.98,
+    "newPrice": 5.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 794,
+    "name": "Club Social Caixa Original - Caixa 288g",
+    "category": "Mercearia",
+    "image": "images/mercearia/social_club_caixa.webp",
+    "oldPrice": 9.98,
+    "newPrice": 4.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 795,
+    "name": "Club Social Integral - Pacote 144g",
+    "category": "Mercearia",
+    "image": "images/mercearia/socialclub_integral.webp",
+    "oldPrice": 6.98,
+    "newPrice": 2.84,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 796,
+    "name": "Stiksy - Pacote 120g",
+    "category": "Mercearia",
+    "image": "images/mercearia/stiksy.webp",
+    "oldPrice": 7.98,
+    "newPrice": 3.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 797,
+    "name": "Torcida Bacon - Pacote 70g",
+    "category": "Mercearia",
+    "image": "images/mercearia/torcida_bacon.webp",
+    "oldPrice": 5.98,
+    "newPrice": 2.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 798,
+    "name": "Torcida Churrasco - Pacote 70g",
+    "category": "Mercearia",
+    "image": "images/mercearia/torcida_churrasco.webp",
+    "oldPrice": 5.98,
+    "newPrice": 2.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 799,
+    "name": "Torcida Japonês - Pacote 70g",
+    "category": "Mercearia",
+    "image": "images/mercearia/torcida_japones.webp",
+    "oldPrice": 5.98,
+    "newPrice": 2.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 800,
+    "name": "Torcida Pimenta - Pacote 70g",
+    "category": "Mercearia",
+    "image": "images/mercearia/torcida_pimenta.webp",
+    "oldPrice": 5.98,
+    "newPrice": 2.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 801,
+    "name": "Yoki Pipoca Natural com Sal - Pacote 100g",
+    "category": "Mercearia",
+    "image": "images/mercearia/yokicomsal.webp",
+    "oldPrice": 5.98,
+    "newPrice": 2.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 802,
+    "name": "Yoki Pipoca Manteiga - Pacote 100g",
+    "category": "Mercearia",
+    "image": "images/mercearia/yokimanteiga.webp",
+    "oldPrice": 5.98,
+    "newPrice": 2.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 803,
+    "name": "Coca-Cola - Garrafa 3L",
+    "category": "Refrigerantes",
+    "image": "images/refrigerantes/coca_3l.webp",
+    "oldPrice": 15.98,
+    "newPrice": 7.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 804,
+    "name": "Coca-Cola Lata sem Açúcar - Lata 350ml",
+    "category": "Refrigerantes",
+    "image": "images/refrigerantes/coca_lata_sem_acucar.webp",
+    "oldPrice": 5.98,
+    "newPrice": 2.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 805,
+    "name": "Coca-Cola Zero - Garrafa 2L",
+    "category": "Refrigerantes",
+    "image": "images/refrigerantes/coca_zero.webp",
+    "oldPrice": 11.98,
+    "newPrice": 5.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 806,
+    "name": "Combo Coca-Cola + Sprite - Garrafa 2L cada",
+    "category": "Refrigerantes",
+    "image": "images/refrigerantes/combo_coca_sprite.webp",
+    "oldPrice": 23.96,
+    "newPrice": 11.33,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 807,
+    "name": "Fanta Guaraná Zero - Garrafa 2L",
+    "category": "Refrigerantes",
+    "image": "images/refrigerantes/fanta_guarana_zero.webp",
+    "oldPrice": 9.98,
+    "newPrice": 4.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 808,
+    "name": "Fanta Guaraná - Garrafa 2L",
+    "category": "Refrigerantes",
+    "image": "images/refrigerantes/fanta_guarana.webp",
+    "oldPrice": 9.98,
+    "newPrice": 4.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 809,
+    "name": "Fanta Laranja - Garrafa 2L",
+    "category": "Refrigerantes",
+    "image": "images/refrigerantes/fanta_laranja_2l.webp",
+    "oldPrice": 9.98,
+    "newPrice": 4.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 810,
+    "name": "Fanta Laranja - Garrafa 600ml",
+    "category": "Refrigerantes",
+    "image": "images/refrigerantes/fanta_laranja_600.webp",
+    "oldPrice": 6.98,
+    "newPrice": 2.84,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 811,
+    "name": "Fanta Uva - Garrafa 2L",
+    "category": "Refrigerantes",
+    "image": "images/refrigerantes/fanta_uva.webp",
+    "oldPrice": 9.98,
+    "newPrice": 4.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 812,
+    "name": "Guaraná Antarctica - Garrafa 2L",
+    "category": "Refrigerantes",
+    "image": "images/refrigerantes/guarana_2l.webp",
+    "oldPrice": 9.98,
+    "newPrice": 4.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 813,
+    "name": "Guaraná Kuat - Garrafa 2L",
+    "category": "Refrigerantes",
+    "image": "images/refrigerantes/guarana_kuat.webp",
+    "oldPrice": 9.98,
+    "newPrice": 4.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 814,
+    "name": "Guaraná Antarctica - Garrafa 1L",
+    "category": "Refrigerantes",
+    "image": "images/refrigerantes/gurana_1l.webp",
+    "oldPrice": 6.98,
+    "newPrice": 2.84,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 815,
+    "name": "Guaraná Antarctica sem Açúcar - Garrafa 2L",
+    "category": "Refrigerantes",
+    "image": "images/refrigerantes/gurana_sem_aucar.webp",
+    "oldPrice": 9.98,
+    "newPrice": 4.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 816,
+    "name": "H2OH! Limão - Garrafa 500ml",
+    "category": "Refrigerantes",
+    "image": "images/refrigerantes/h2oh_limao.webp",
+    "oldPrice": 6.98,
+    "newPrice": 2.84,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 817,
+    "name": "H2OH! - Garrafa 500ml",
+    "category": "Refrigerantes",
+    "image": "images/refrigerantes/h2oh.webp",
+    "oldPrice": 6.98,
+    "newPrice": 2.84,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 818,
+    "name": "Pepsi - Garrafa 2L",
+    "category": "Refrigerantes",
+    "image": "images/refrigerantes/pepsi_2l.webp",
+    "oldPrice": 9.98,
+    "newPrice": 4.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 819,
+    "name": "Pepsi Lata - Lata 350ml",
+    "category": "Refrigerantes",
+    "image": "images/refrigerantes/pepsi_lata.webp",
+    "oldPrice": 4.98,
+    "newPrice": 1.84,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 820,
+    "name": "Pepsi Twist - Garrafa 2L",
+    "category": "Refrigerantes",
+    "image": "images/refrigerantes/pepsi_twist.webp",
+    "oldPrice": 9.98,
+    "newPrice": 4.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 821,
+    "name": "Pepsi Zero - Garrafa 2L",
+    "category": "Refrigerantes",
+    "image": "images/refrigerantes/pepsi_zero.webp",
+    "oldPrice": 9.98,
+    "newPrice": 4.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 822,
+    "name": "Schweppes Citrus - Lata 350ml",
+    "category": "Refrigerantes",
+    "image": "images/refrigerantes/schweppes_citrus.webp",
+    "oldPrice": 5.98,
+    "newPrice": 2.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 823,
+    "name": "Soda Limonada - Garrafa 2L",
+    "category": "Refrigerantes",
+    "image": "images/refrigerantes/soda_limonada.webp",
+    "oldPrice": 7.98,
+    "newPrice": 3.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 824,
+    "name": "Sprite sem Açúcar - Garrafa 2L",
+    "category": "Refrigerantes",
+    "image": "images/refrigerantes/sprite_2l_sem_acucar.webp",
+    "oldPrice": 9.98,
+    "newPrice": 4.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 825,
+    "name": "Sprite Lemon Fresh - Garrafa 2L",
+    "category": "Refrigerantes",
+    "image": "images/refrigerantes/sprite_lemon_fresh.webp",
+    "oldPrice": 9.98,
+    "newPrice": 4.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 826,
+    "name": "Sprite - Garrafa 2L",
+    "category": "Refrigerantes",
+    "image": "images/refrigerantes/sprite.webp",
+    "oldPrice": 9.98,
+    "newPrice": 4.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 827,
+    "name": "Sukita Laranja - Garrafa 2L",
+    "category": "Refrigerantes",
+    "image": "images/refrigerantes/sukita_laranja.webp",
+    "oldPrice": 7.98,
+    "newPrice": 3.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 828,
+    "name": "Sukita Limão - Garrafa 2L",
+    "category": "Refrigerantes",
+    "image": "images/refrigerantes/sukita_limao.webp",
+    "oldPrice": 7.98,
+    "newPrice": 3.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 829,
+    "name": "Sukita Uva - Garrafa 2L",
+    "category": "Refrigerantes",
+    "image": "images/refrigerantes/sukita_uva.webp",
+    "oldPrice": 7.98,
+    "newPrice": 3.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 830,
+    "name": "Paçoca 56 Unidades - Pote 1,008kg",
+    "category": "Sobremesas",
+    "image": "images/sobremesas/paçoca_56_unidades.webp",
+    "oldPrice": 23.98,
+    "newPrice": 11.34,
+    "stock": 30,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 831,
+    "name": "Halls Mentol - Caixa com 21 unidades",
+    "category": "Sobremesas",
+    "image": "images/sobremesas/halls_mentol.webp",
+    "oldPrice": 19.98,
+    "newPrice": 9.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 832,
+    "name": "Halls Melancia - Caixa com 21 unidades",
+    "category": "Sobremesas",
+    "image": "images/sobremesas/halls_melancia.webp",
+    "oldPrice": 19.98,
+    "newPrice": 9.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 833,
+    "name": "Halls Cereja - Caixa com 21 unidades",
+    "category": "Sobremesas",
+    "image": "images/sobremesas/halls_cereja.webp",
+    "oldPrice": 19.98,
+    "newPrice": 9.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 834,
+    "name": "Halls Extra Forte - Caixa com 21 unidades",
+    "category": "Sobremesas",
+    "image": "images/sobremesas/halls_extraforte.webp",
+    "oldPrice": 19.98,
+    "newPrice": 9.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 835,
+    "name": "Halls Menta - Caixa com 21 unidades",
+    "category": "Sobremesas",
+    "image": "images/sobremesas/halls_menta.webp",
+    "oldPrice": 19.98,
+    "newPrice": 9.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 836,
+    "name": "Freegels - Caixa com 12 unidades",
+    "category": "Sobremesas",
+    "image": "images/sobremesas/freegels.webp",
+    "oldPrice": 15.98,
+    "newPrice": 7.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 837,
+    "name": "Trident Herbal - Caixa com 21 unidades",
+    "category": "Sobremesas",
+    "image": "images/sobremesas/trident_herbal.webp",
+    "oldPrice": 17.98,
+    "newPrice": 8.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 838,
+    "name": "Trident Tutti-Frutti - Caixa com 21 unidades",
+    "category": "Sobremesas",
+    "image": "images/sobremesas/trident_tuttifrutti.webp",
+    "oldPrice": 17.98,
+    "newPrice": 8.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 839,
+    "name": "Trident Melancia - Caixa com 21 unidades",
+    "category": "Sobremesas",
+    "image": "images/sobremesas/trident_melancia.webp",
+    "oldPrice": 17.98,
+    "newPrice": 8.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 840,
+    "name": "Trident Intense - Caixa com 21 unidades",
+    "category": "Sobremesas",
+    "image": "images/sobremesas/trident_intense.webp",
+    "oldPrice": 17.98,
+    "newPrice": 8.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 841,
+    "name": "Trident Raspberry - Caixa com 21 unidades",
+    "category": "Sobremesas",
+    "image": "images/sobremesas/trident_raspberry.webp",
+    "oldPrice": 17.98,
+    "newPrice": 8.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 842,
+    "name": "Trident Canela - Caixa com 21 unidades",
+    "category": "Sobremesas",
+    "image": "images/sobremesas/trident_canela.webp",
+    "oldPrice": 17.98,
+    "newPrice": 8.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 843,
+    "name": "Trident Xsenses Cereja Ice - Caixa com 21 unidades",
+    "category": "Sobremesas",
+    "image": "images/sobremesas/trident_xsenses_cereja.webp",
+    "oldPrice": 17.98,
+    "newPrice": 8.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 844,
+    "name": "Trident Morango - Caixa com 21 unidades",
+    "category": "Sobremesas",
+    "image": "images/sobremesas/trident_morango.webp",
+    "oldPrice": 17.98,
+    "newPrice": 8.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 845,
+    "name": "Trident Max Blueberry - Caixa com 14 unidades",
+    "category": "Sobremesas",
+    "image": "images/sobremesas/trident_max_blueberry.webp",
+    "oldPrice": 15.98,
+    "newPrice": 7.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 846,
+    "name": "Trident Hortelã - Caixa com 21 unidades",
+    "category": "Sobremesas",
+    "image": "images/sobremesas/trident_hortela.webp",
+    "oldPrice": 17.98,
+    "newPrice": 8.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  },
+  {
+    "id": 847,
+    "name": "Trident Menta - Caixa com 21 unidades",
+    "category": "Sobremesas",
+    "image": "images/sobremesas/trident_menta.webp",
+    "oldPrice": 17.98,
+    "newPrice": 8.34,
+    "stock": 40,
+    "tags": [
+      {
+        "text": "Promo",
+        "color": "green"
+      }
+    ]
+  }
+]
